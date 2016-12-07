@@ -1,3 +1,4 @@
-# Financial-Optimization
+# Jump Diffusion
 
-Using 3 different optimization model to obtain optimal position and compare their performance
+- Using Merton's Jump Diffusion Model to run Monte Carlo simulation of stock prices
+- Comparison of option prices under Jump Diffusion Model, Geometric Brownian Motion and Market
